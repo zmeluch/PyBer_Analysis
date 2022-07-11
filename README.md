@@ -27,6 +27,7 @@ helping to make decisions about how to each city type is served.
 
 ## Summary
 To help fix the disparity in city types.
+	
 	- PyBer could commit more drivers to rural city types.
 	- PyBer could lower the fare per ride for rural city.
 	- PyBer could increase drivers for suburban city types.
