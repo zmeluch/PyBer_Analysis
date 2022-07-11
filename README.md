@@ -13,7 +13,7 @@ This analysis will help the company better understand the differences in fares b
 helping to make decisions about how to each city type is served.
 
 ## Results
-	![PyBer_Summary](https://user-images.githubusercontent.com/103155045/178171218-6ac5e3cf-a295-4b64-9b0e-41f77af1456b.png)
+![PyBer_Summary](https://user-images.githubusercontent.com/103155045/178171218-6ac5e3cf-a295-4b64-9b0e-41f77af1456b.png)
 
 	- Urban city types account for the most rides, drivers and total fares.
 	- Urban city types have the lowest average fare per ride and average fare per driver.
