@@ -20,8 +20,8 @@ helping to make decisions about how to each city type is served.
 	- Rural city types account for the fewest riders, drivers and total fares.
 	- Rural city types have the hightest average fare per ride and fare per drivers.
 
-  ![PyBer_fare_summary](https://user-images.githubusercontent.com/103155045/178171251-6b1ec2bb-8806-4422-bdaa-b736715da3c2.png)
-
+![PyBer_fare_summary](https://user-images.githubusercontent.com/103155045/178629003-85782df9-fdad-44fe-9fe0-72cac968a4f4.png)
+  
 	- Urban city types consistently have the highest total fares.
 	- Rural city types consistently have the lowest total fares.
 
